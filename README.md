@@ -9,7 +9,7 @@
 
 ## 🎯 Objetivo do Projeto
 
-Este repositório marca o primeiro estudo prático da minha trilha de transição para **Finanças Quantitativas**. O objetivo é construir um pipeline ponta a ponta em Python para investigar o comportamento dos retornos diários das ações da Petrobras (`PETR4.SA`) utilizando **Regressão Linear** e **Backtesting**.
+Este repositório marca o primeiro estudo prático da área de **Finanças Quantitativas**. O objetivo é construir um pipeline ponta a ponta em Python para investigar o comportamento dos retornos diários das ações da Petrobras (`PETR4.SA`) utilizando **Regressão Linear** e **Backtesting**.
 
 Mais do que buscar acurácia estatística pura em séries financeiras ruidosas, o foco deste estudo é aplicar rigor metodológico: evitar vazamento de dados futuros (*look-ahead bias*), estruturar pipelines limpos de engenharia de dados e avaliar se um sinal preditivo sobrevive aos custos operacionais reais no mercado.
 
